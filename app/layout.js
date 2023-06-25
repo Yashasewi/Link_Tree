@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "LinkTree",
-    description: "LinkTree For The Machaoo Team",
+    title: "Yashasewi's LinkTree",
+    description: "Yashasewi's LinkTree",
 };
 
 export default function RootLayout({ children }) {

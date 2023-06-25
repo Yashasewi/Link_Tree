@@ -17,7 +17,7 @@ function Effect() {
                     left: `${clientX}px`,
                     top: `${clientY}px`,
                 },
-                { duration: 3000, fill: "forwards" }
+                { duration: 2000, fill: "forwards" }
             );
         };
 
