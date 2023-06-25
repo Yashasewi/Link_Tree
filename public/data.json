@@ -1,44 +1,39 @@
 [
-    {
-        "name": "@MACHAO",
-        "desc":"Looking for high-quality streetwear that won't break the bank? Look no further than Machaoo. Our affordable collection of t-shirts, hoodies, and joggers is perfect for anyone who wants to look cool without spending a fortune. Check out our Linktree page for links to our online store and social media profiles.",
-        "iconurl": "/assets/images/picture.webp",
-        "links": [
-            {
-                "name": "Website",
-                  "icon":  "FcDatabase",
-                "url": "https://www.befikrestore.in/"
-            },
-            {
-                "name":"Twitter",
-                "icon": "/assets/svg/twitter.svg",
-                "url": "https://twitter.com/"
-            },
-            {
-                "name":"LinkedIn",
-                "icon": "/assets/svg/linkedin.svg",
-                "url": "https://www.linkedin.com/company/befikrestore"
-            },
-            {
-                "name":"GitHub",
-                "icon": "/assets/svg/github.svg",
-                "url": "https://github.com/yashasewi"
-            },
-            {
-                "name":"Facebook",
-                "icon": "/assets/svg/facebook.svg",
-                "url": "https://www.facebook.com/"
-            },
-            {
-                "name":"YouTube",
-                "icon": "/assets/svg/youtube.svg",
-                "url": "https://www.youtube.com/"
-            },
-            {
-                "name":"Instagram",
-                "icon": "/assets/svg/instagram.svg",
-                "url": "https://www.instagram.com/befikre.store/"
-            }
-        ]
-    }
+  {
+    "name": "YASHASEWI SINGH",
+    "description": "Hi there, I'm Yashasewi Singh, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.",
+    "iconurl": "/assets/images/picture.webp",
+    "links": [
+      {
+        "name": "Portfolio",
+        "icon": "FcDatabase",
+        "url": "https://www.yashasewi.eu.org/"
+      },
+      {
+        "name": "Twitter",
+        "icon": "/assets/svg/twitter.svg",
+        "url": "https://twitter.com/Yashasewi"
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "/assets/svg/linkedin.svg",
+        "url": "https://www.linkedin.com/in/yashasewi/"
+      },
+      {
+        "name": "GitHub",
+        "icon": "/assets/svg/github.svg",
+        "url": "https://github.com/yashasewi"
+      },
+      {
+        "name": "Facebook",
+        "icon": "/assets/svg/facebook.svg",
+        "url": "https://www.facebook.com/yashasewi.singh.94"
+      },
+      {
+        "name": "Instagram",
+        "icon": "/assets/svg/instagram.svg",
+        "url": "https://www.instagram.com/Yashasewi/"
+      }
+    ]
+  }
 ]
